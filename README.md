@@ -53,7 +53,7 @@ echo 2> / proc / ppm / policy / hica_power_state
 echo 3> / proc / cpufreq / cpufreq_power_mode  
 echo "performance" > / proc / ppm / mode  
 echo "low-power-mode 0" > / d / ged / hal / event_notify  
-echo "low_power_mode：3" > / d / dispsys  
+echo "low_power_mode:3" > / d / dispsys  
   
 三、perfserv+.tp方案  
 1、perfservapplist.txt鸡血阉割应用清单。  
@@ -65,3 +65,7 @@ echo "low_power_mode：3" > / d / dispsys
 #I/O的优化思路  
   
 #ZRAM的优化思路  
+
+测试群号：653581517  
+POWERED BY 铁人司机    
+2019/4/13  
